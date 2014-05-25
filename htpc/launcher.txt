@@ -1,0 +1,2 @@
+"C:\Program Files\AutoHotkey\AutoHotkey.exe" "C:\autohotkey\htpc\netflix.ahk"
+"C:\Program Files\AutoHotkey\AutoHotkey.exe" "C:\autohotkey\htpc\pandora.ahk"
