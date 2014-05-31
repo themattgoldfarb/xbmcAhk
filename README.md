@@ -5,11 +5,12 @@ Autohotkey scripts to facilitate launching non-xbmc programs in windows and cont
 
 Setup
 ---
- 1. To set this up, place these folders in c:/xbmcAhk   
- 2. Setup htpc/xbmc.ahk to run on startup.
+ 1. install [autohotkey](http://www.autohotkey.com/)
+ 2. To set this up, place these folders in c:/xbmcAhk   
+ 3. Setup htpc/xbmc.ahk to run on startup.
    * This script binds the back button on a 360 controller to launch (or switch to if its already running) xbmc
- 3. Install Advanced Launcher in xbmc
- 4. Create a launcher for the desired autohotkey script
+ 4. Install Advanced Launcher in xbmc
+ 5. Create a launcher for the desired autohotkey script
    1. It should be a standalone launcher.  
    2. set the launcher application to the autohotkey executable (probably c:\program files\autohotkey\autohotkey.exe)
    3. set the application arguments to "c:\xbmcAhk\htpc\\\[autohotkey script] (for netflix it would be "c:\xbmcAhk\htpc\netflix.ahk")
