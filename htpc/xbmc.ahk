@@ -1,4 +1,4 @@
-#include C:\xbmcAhk\htpc\htpc.ahk
+#include htpc.ahk
 #singleInstance
 #persistent
 #noenv

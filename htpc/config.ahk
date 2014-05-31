@@ -1,0 +1,1 @@
+PathToXbmc = "C:\Program Files (x86)\XBMC\xbmc.exe"
